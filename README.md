@@ -33,7 +33,7 @@ http-header = $'GET' \ -H $'Host: yandex.com' -H $'User-Agent: 'Mozilla/5.0 (com
 $ ../bin/bash/curl f'-o response.txt -i -s -k -X '+{http-header}+' '+{victim url}'
 
 </code>
-Feel free to decode this into url_base64, hex, bin, char etc. It increases your chances for success. Do not forget to change your IP for example with github/N3S3/INKOGNITO, change your mac, use Tor-Browser or Libre Wolf as standard Browser and clean afterwards up with bleachbit (coockies + cache + logs) in overwrite mode on ssd. Hdd means 32xpeter-guthmann-method..thats not good for the lifecycle of your disk ;).Do not use ipv6, because of duid. Consider also spoofing of your uuid, canvas gps geolocation(location-guard add) and much more!!!! For questions and construtive critic: n3s3@myyahoo.com.
+Feel free to encode this into url_base64, hex, bin, char etc. . It increases your chances for success. Do not forget to change your IP for example with github/N3S3/INKOGNITO, change your mac, use Tor-Browser or Libre Wolf as standard Browser and clean afterwards up with bleachbit (coockies + cache + logs) in overwrite mode on ssd. Hdd means 32xpeter-guthmann-method..thats not good for the lifecycle of your disk ;).Do not use ipv6, because of duid. Consider also spoofing of your uuid, canvas gps geolocation(location-guard add) and much more!!!! For questions and construtive critic: n3s3@myyahoo.com.
 ![Screenshot 2](https://github.com/N3S3/XSS-GIFs/assets/68975029/1e9c839a-5d7f-44ab-a7c1-4c4b10e5429f)
 
 
